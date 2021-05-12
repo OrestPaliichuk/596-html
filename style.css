@@ -1,0 +1,7 @@
+img[src$=".svg"] {
+    max-width: 100px;
+}
+
+#introduce {
+    font-family:Open Sans, italic;
+}
