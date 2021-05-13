@@ -1,6 +1,46 @@
-img[src$=".svg"] {
-    max-width: 100px;
+body {
+    max-width: 1000px;
+    margin: auto;
 }
+.menu-contacts {
+    display: flex;
+    justify-content: space-around;
+    background-color:#375bb1;
+    color: white;
+    min-height: 45px;
+    align-items: center;
+}.menu-contacts a {
+    text-decoration: none;
+    color: white;
+}
+.menu-navigation-flex {
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+}
+.logo {
+    display: flex;
+    
+}
+.menu-navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}.menu-navigation-links{
+    display: flex;
+    align-items: center;
+}
+.menu-navigation-links a {
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+    
+}.button-contact-us {
+    background-color: #375bb1;
+    flex: 1;
+}
+
+
 
 #introduce {
     font-family:Open Sans, italic;
