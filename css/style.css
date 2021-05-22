@@ -1,83 +1,9 @@
-body {
-    max-width: 1000px;
-    margin: auto;
-}
-.menu-contacts {
-    display: flex;
-    justify-content: space-around;
-    background-color:#375bb1;
-    color: white;
-    min-height: 45px;
-    align-items: center;
-}.menu-contacts a {
-    text-decoration: none;
-    color: white;
-}
-.menu-navigation-flex {
-    display: flex;
-    justify-content: space-around;
-    margin: 15px;
-}
-.logo {
-    display: flex;
-    
-}
-.menu-navigation {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}.menu-navigation-links{
-    display: flex;
-    align-items: center;
-}
-.menu-navigation-links a {
-    text-decoration: none;
-    color: black;
-    margin: 5px;
-    
-}.button-contact-us {
-    background-color: #375bb1;
-    flex: 1;
-}
 
 
 
-#introduce {
-    font-family:Open Sans, italic;
-}
-.menu-maine {
-    font-family:Open Sans, italic;
-}
+
 .banner {
-    font-family:Open Sans, italic;
-}
-.service-address {
-    font-family:Open Sans, italic;
-}
-#about-us {
-    font-family:Open Sans, sans-serif;
-}
-.hospital-partner {
-    font-family:Open Sans, sans-serif;
-}
-#illness {
-    font-family:Open Sans, sans-serif;
-}
-#contact-us {
-    font-family:Open Sans, sans-serif;
-}
-#team-transplant {
-    font-family:Open Sans, sans-serif;
-}
-#feedback {
-    font-family:Open Sans, sans-serif;
-}
-#faq {
-    font-family:Open Sans, sans-serif;
-}
-#address {
-    font-family:Open Sans, sans-serif;
-}
-footer {
-    font-family:Open Sans, sans-serif;
+    background-image: url(../img/smile-doctors-shemale.webp);
+    background-size: cover;
+    background-position: center;
 }
