@@ -1,9 +1,14 @@
+.decorate-icon {
+    background: rgb(103, 143, 235);
+}
+.emergen-call {
+    background: rgb(78, 108, 179);  
+}
+.easyAsccess {
+    background: rgb(89, 124, 204)
+}
+.service-address {
 
-
-
-
-.banner {
-    background-image: url(../img/smile-doctors-shemale.webp);
-    background-size: cover;
-    background-position: center;
+}.service-address h3{
+    font-size: 2rem;
 }
